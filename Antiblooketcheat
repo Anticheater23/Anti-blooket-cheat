@@ -6,4 +6,4 @@ If not found: Cancel command entirely://True
 If found on website: Blooket.com/play: Close tab://true
 If User Re adds bookmark after remove command has been ran: Scramble code://True
 If Code scramble command: fail: delete bookmark: true//runcommand
-If site: Blooket.com/play
+If site: Blooket.com/play:runboommarkcommand://false
